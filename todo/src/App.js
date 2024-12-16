@@ -11,7 +11,9 @@ function App() {
         <div className="text-2xl font-bold font-sans text-center pt-5">To<span className="text-yellow-300 text-center pt-5"> - Do</span></div>
         <Searchbar />
         <Addbtn />
-        <Task />
+        <Task TaskName="Morning yoga" />
+        <Task TaskName="Breakfast" />
+        <Task TaskName="Study ICT" />
       </div>
     </div>
   );
