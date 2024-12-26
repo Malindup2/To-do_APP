@@ -12,8 +12,6 @@ function App() {
         <Searchbar />
         <Addbtn />
         <Task TaskName="Morning yoga" />
-        <Task TaskName="Breakfast" />
-        <Task TaskName="Study ICT" />
       </div>
     </div>
   );
